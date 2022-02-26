@@ -219,7 +219,7 @@
 
 - [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) -- done
 - [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
-- [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+- [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) -- done
 - [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
 - [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 - [1021. 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/)
