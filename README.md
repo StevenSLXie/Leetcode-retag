@@ -217,7 +217,7 @@
 
 ###### 简单
 
-- [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+- [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) -- done
 - [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 - [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
